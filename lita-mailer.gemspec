@@ -5,8 +5,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["devon.finninger@peopleadmin.com"]
   spec.description   = "Send emails from Lita"
   spec.summary       = "Send emails from Lita"
-  spec.homepage      = "TODO: Add a homepage"
-  spec.license       = "TODO: Add a license"
+  spec.homepage      = "https://github.com/dfinninger/lita-mailer"
+  spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
   spec.files         = `git ls-files`.split($/)
